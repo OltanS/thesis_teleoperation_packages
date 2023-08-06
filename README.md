@@ -14,5 +14,5 @@ Steps to utilize the code:
 7. Install the universal robots ROS driver from [here](https://github.com/UniversalRobots/Universal_Robots_ROS_Driver) in your catkin workspace and follow its setup instructions up to the end of extracting calibration information.
 8. Install moveit_servo following the instructions [here](https://ros-planning.github.io/moveit_tutorials/doc/realtime_servo/realtime_servo_tutorial.html) in your catkin workspace.
 9. Download this repository into your catkin workspace.
-10. Build and source your catkin workspace.
+10. Build and source your catkin workspace. (use catkin build not catkin_make)
 11. Run one of the launch files to start, like ```roslaunch ur_to_touch_haptic_teleoperation ur_touch_haptic_teleoper.launch```
