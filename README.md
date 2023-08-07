@@ -1,4 +1,4 @@
-# Undergraduate Thesis for Oltan Sevinc
+# Haptic Teleoperation of a UR5e with 3DSystems Touch
 
 This repository includes files that relate to teleoperating a Universal Robots E-series robot via a 3Dsystems Touch haptic device with haptic feedback for the purposes of improving remote ultrasounds.
 
